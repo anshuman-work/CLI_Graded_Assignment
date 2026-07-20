@@ -1,0 +1,3 @@
+Name: Anshuman Gupta
+Roll No: 2025EB01019
+Assignment: Linux CLI

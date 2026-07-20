@@ -1,0 +1,6 @@
+Anshuman_Gupta_Assignment.txt is a duplicate of Anshuman_Gupta_Assignment_Copy.txt
+
+========== REPORT ==========
+Files Processed : 4
+Duplicate Files : 1
+Files Backed Up : 3

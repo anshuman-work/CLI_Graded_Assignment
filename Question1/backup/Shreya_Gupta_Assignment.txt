@@ -1,0 +1,3 @@
+Name: Shreya Gupta
+Roll No: 2025EB01017
+Assignment: Linux CLI

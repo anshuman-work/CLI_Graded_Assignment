@@ -1,0 +1,17 @@
+INFO: Web server started successfully
+INFO: Database connected
+WARNING: High memory usage detected
+ERROR: Database connection failed
+INFO: User login successful
+ERROR: Disk space critically low
+INFO: Backup completed
+WARNING: CPU usage is high
+ERROR: Unable to send email notification
+INFO: New user logged in
+ERROR: Network connection lost
+WARNING: High CPU temperature
+ERROR: Failed to restart web server
+ERROR: Authentication failed
+ERROR: Server timeout
+ERROR: Authentication failed
+ERROR: Server timeout
