@@ -1,6 +1,6 @@
 # CLI and Scripting Staff Graded Assignment
 
-Student Name: Anshuman Gupta
+**Student Name**: Anshuman Gupta
 
 This repository contains solutions for the CLI and Scripting Staff Graded Assignment.
 
